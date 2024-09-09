@@ -2,7 +2,7 @@
 
 
 ## 👋 Hi there
-Currently studying at university, majoring in Software Engineering. In addition to studies, the team captain for the FIRST Robotics Competition.
+Currently studying at university, majoring in Software Engineering. In addition to studies, also I was the team captain for the FIRST Robotics Competition for 2 years...
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
