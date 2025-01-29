@@ -11,6 +11,3 @@ Currently studying at university, majoring in Software Engineering. In addition 
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-
-## 📊 Statistics
-[![@berki's stats](https://github-readme-stats.vercel.app/api?username=berki-devs&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
