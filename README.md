@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋! My name is Yerdaulet, and I'm a software engineer from Kazakhstan</h2>
 
-###
+
 <img align="right" height="300" src="https://i.imgflip.com/3z7bsh.jpg"  />
 
 <h3 align="left">Tech Stack 🏄🏼‍♂️</h3>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,11 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </div>
 
-###
+
 
 <h3 align="left">Useful links 👀</h3>
 
-###
+
 
 <div align="left">
   <a href="mailto:berki.devs@gmail.com" target="_blank">
@@ -47,11 +47,11 @@
   </a>
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berki-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2&custom_title=what?" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berki-devs&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
-###
+
