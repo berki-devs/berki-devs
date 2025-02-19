@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Yerdaulet, and I'm a software engineer from Kazakhstan</h2>
 
 
-<img align="right" height="300" src="https://i.imgflip.com/3z7bsh.jpg"  />
+<img align="right" height="250" src="https://i.imgflip.com/3z7bsh.jpg"  />
 
 <h3 align="left">Tech Stack 🏄🏼‍♂️</h3>
 
