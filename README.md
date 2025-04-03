@@ -1,10 +1,6 @@
 <h2 align="center">Hi 👋! My name is Yerdaulet, and I'm a software engineer from Kazakhstan</h2>
 
-
-<img align="right" height="250" src="https://i.imgflip.com/3z7bsh.jpg"  />
-
 <h3 align="left">Tech Stack 🏄🏼‍♂️</h3>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -52,7 +48,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berki-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2&custom_title=what?" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berki-devs&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 
